@@ -1,0 +1,12 @@
+<!-- European Union (stylized) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" role="img" aria-label="EU flag">
+  <rect width="64" height="40" fill="#003399"/>
+  <g fill="#ffcc00" transform="translate(32,20)" text-anchor="middle">
+    <!-- simplified ring of stars -->
+    <circle r="10" fill="none" stroke="#ffcc00" stroke-width="0.8" opacity="0.0"/>
+    <g transform="rotate(0) translate(0,-10)">
+      <polygon points="-1.2,-0.2 1.2,-0.2 0.0,1.5" fill="#ffcc00"/>
+    </g>
+  </g>
+  <text x="46" y="33" font-family="Arial, Helvetica, sans-serif" font-size="8" fill="#fff" font-weight="700">EU</text>
+</svg>

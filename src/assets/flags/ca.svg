@@ -1,0 +1,7 @@
+<!-- Canada (stylized) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" role="img" aria-label="Canada flag">
+  <rect width="64" height="40" fill="#fff"/>
+  <rect width="12" height="40" fill="#ff0000"/>
+  <rect x="52" width="12" height="40" fill="#ff0000"/>
+  <text x="46" y="33" font-family="Arial, Helvetica, sans-serif" font-size="8" fill="#ff0000" font-weight="700">CA</text>
+</svg>

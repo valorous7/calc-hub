@@ -1,0 +1,6 @@
+<!-- Singapore (stylized) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" role="img" aria-label="Singapore flag">
+  <rect width="64" height="20" fill="#d00"/>
+  <rect y="20" width="64" height="20" fill="#fff"/>
+  <text x="46" y="33" font-family="Arial, Helvetica, sans-serif" font-size="8" fill="#d00" font-weight="700">SG</text>
+</svg>

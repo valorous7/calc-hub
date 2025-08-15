@@ -1,0 +1,7 @@
+<!-- Russia (stylized) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" role="img" aria-label="Russia flag">
+  <rect width="64" height="13.333" y="0" fill="#fff"/>
+  <rect width="64" height="13.333" y="13.333" fill="#0039a6"/>
+  <rect width="64" height="13.334" y="26.666" fill="#d52b1e"/>
+  <text x="46" y="33" font-family="Arial, Helvetica, sans-serif" font-size="8" fill="#000" font-weight="700">RU</text>
+</svg>

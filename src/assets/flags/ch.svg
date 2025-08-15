@@ -1,0 +1,7 @@
+<!-- Switzerland (stylized) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" role="img" aria-label="Switzerland flag">
+  <rect width="64" height="40" fill="#ff0000"/>
+  <rect x="26" y="10" width="12" height="20" fill="#fff"/>
+  <rect x="20" y="16" width="24" height="8" fill="#fff"/>
+  <text x="46" y="33" font-family="Arial, Helvetica, sans-serif" font-size="8" fill="#fff" font-weight="700">CH</text>
+</svg>

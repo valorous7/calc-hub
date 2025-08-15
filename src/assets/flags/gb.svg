@@ -1,0 +1,9 @@
+<!-- United Kingdom (stylized) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" role="img" aria-label="United Kingdom flag">
+  <rect width="64" height="40" fill="#012169"/>
+  <rect x="0" y="17" width="64" height="6" fill="#fff"/>
+  <rect x="29" y="0" width="6" height="40" fill="#fff"/>
+  <rect x="0" y="18" width="64" height="4" fill="#c8102e"/>
+  <rect x="31" y="0" width="2" height="40" fill="#c8102e"/>
+  <text x="46" y="33" font-family="Arial, Helvetica, sans-serif" font-size="8" fill="#fff" font-weight="700">GB</text>
+</svg>
