@@ -29,7 +29,9 @@ jobs:
             echo "No lockfile — running npm install"
             npm install
           fi
+  name: npm-ci
 
+  uses: chill-viking/npm-ci@v1.3.0
       - name: Run tests
         run: npm test
 
